@@ -1,2 +1,5 @@
 # Django-Hello-World-
-Simply creating a webpage containing hello world using django
+Creating a webpage using the django framework
+
+#### Getting Started (Option 1- Docker)
+1.) Git clone
